@@ -1,8 +1,8 @@
 a = "Hello"
 b = "world"
 
-c = a+ " "+b
+c = a + " "+b
 print(c)
 
-d= (a+" ")*3
+d = (a+" ")*3
 print(d)

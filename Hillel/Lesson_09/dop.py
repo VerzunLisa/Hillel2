@@ -1,0 +1,5 @@
+numeric = input()
+# text = numeric.find('.')
+# print(text)
+text = numeric.replace('.', "1", 1)
+print(text)

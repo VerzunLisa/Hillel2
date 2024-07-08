@@ -1,3 +1,11 @@
+# Написати декоратор до 2-х будь-яких функцій, який би рахував та виводив час їх виконання.
+#
+# Підсказка:
+#
+# from datetime import datetime
+#
+# now = datetime.now()
+
 from datetime import datetime
 
 numeric_01 = int(input("Прошу введіть перше число: "))
